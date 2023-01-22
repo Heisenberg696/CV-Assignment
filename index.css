@@ -1,0 +1,45 @@
+body{
+    font-family: verdana;
+}
+
+#personal{
+    text-align: center;
+ 
+}
+
+h3{
+    margin: 0px;
+}
+
+p {
+    margin: 2px;
+    font-size: small;
+}
+
+h5{
+    margin: 0px;
+}
+
+
+
+hr{
+    border: 1px solid black;
+
+}
+#first{
+    float: left;
+    margin: 0px;
+
+}
+
+#second{
+    float :right;
+    margin: 0px; 
+}
+#continue{
+    display: inline-block;
+    
+}
+#next{
+    clear: both;
+}
